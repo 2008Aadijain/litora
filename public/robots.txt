@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /book/
+Allow: /events
+Disallow: /admin
+Disallow: /admin/
+Disallow: /seller/login
+Disallow: /seller/dashboard
+Disallow: /author/login
+Disallow: /author/dashboard
+Sitemap: https://ebook-marketplace-mv-5l6o.bolt.host/sitemap.xml

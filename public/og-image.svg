@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#faf6ef"/>
+  <text x="600" y="280" font-family="Georgia, serif" font-size="72" font-weight="700" text-anchor="middle" fill="#1a1a2e">Litora</text>
+  <text x="600" y="350" font-family="Inter, sans-serif" font-size="28" text-anchor="middle" fill="#6b6b80">Curated Book Marketplace</text>
+  <text x="600" y="400" font-family="Inter, sans-serif" font-size="20" text-anchor="middle" fill="#3d3d5c">Premium titles from independent authors</text>
+  <rect x="500" y="430" width="200" height="3" rx="1.5" fill="#2d6a4f"/>
+</svg>

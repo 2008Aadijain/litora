@@ -1,0 +1,10 @@
+{
+  "name": "Litora - Curated Book Marketplace",
+  "short_name": "Litora",
+  "description": "Litora is a curated book marketplace featuring premium titles from independent authors.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6ef",
+  "theme_color": "#2d6a4f",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
